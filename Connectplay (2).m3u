@@ -21,10 +21,17 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Filmes e Séries",AMC HD
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
+# EXTINF : -1  tvg-id =""  tvg-name = " CANAL RURAL "  tvg-logo = " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_QeABB1x4WHSz4p0GkvwT6tb3HMLL7VHLNVbIRfMgWadDrY7492GZ0k&s=10"  group-title = " CANAIS " , CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+# EXTINF : -1  tvg-id = " "  tvg-name = " CONECTV "  tvg-logo = " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCzyO0k5FOCYWt-hfcYBZKEMzo_v4Qd3J9V7aQYTIFQDgkPbrMfZB-F0&s=10 "  group-title = " CANAIS " , CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://m3u.win/images/canais/amc-hd.png" group-title="CANAIS",REDE TV
 https://stream.ads.ottera.tv/cl/250831d2q4l4bmo70fl0vtprsg/1280x720_3071200_0_f.m3u8?i=728_4865
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://m3u.win/images/canais/amc-hd.png" group-title="Filmes e Séries",AMC HD
 https://stream.ads.ottera.tv/cl/250831d2q4l4bmo70fl0vtprsg/1280x720_3071200_0_f.m3u8?i=728_4865
+
 
 
