@@ -24,14 +24,15 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20190825030134" group-title="CANAIS",SBT MA
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1030912113.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://m3u.win/images/canais/amc-hd.png" group-title="Filmes e Séries",AMC HD
-https://stream.ads.ottera.tv/cl/250831d2q4l4bmo70fl0vtprsg/1280x720_3071200_0_f.m3u8?i=728_4865
+#EXTINF:-1 tvg-id="" tvg-name="RBA TV" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2025/07/Sem-nome-90-x-874-px-900-x-874-px-Video-2-e1753185391362.png" group-title="CANAIS",RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/chunklist_w1174352243.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://m3u.win/images/canais/amc-hd.png" group-title="Filmes e Séries",AMC HD
 https://stream.ads.ottera.tv/cl/250831d2q4l4bmo70fl0vtprsg/1280x720_3071200_0_f.m3u8?i=728_4865
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://m3u.win/images/canais/amc-hd.png" group-title="Filmes e Séries",AMC HD
 https://stream.ads.ottera.tv/cl/250831d2q4l4bmo70fl0vtprsg/1280x720_3071200_0_f.m3u8?i=728_4865
+
 
 
 
